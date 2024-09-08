@@ -1,6 +1,6 @@
 # Netexec Shell
 
-The netexec binary is a minimum viable shell & reverse shell software. After being installed on a target machine it can open a bind-shell or reverse-shell that allows security engineers or system administrators to execute commands remotely. The software is operating system agnostic.
+The netexec binary is a minimum viable shell & reverse shell software. After being installed on a target machine it can open a bind-shell or reverse-shell that allows security engineers and system administrators to execute commands remotely. The software is operating system agnostic.
 
 ## BYOS? Why Bother?
 
