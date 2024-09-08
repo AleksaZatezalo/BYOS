@@ -4,7 +4,7 @@ The netexec binary is a minimum viable shell & reverse shell software. After bei
 
 ## BYOS? Why Bother?
 
-The netexec binary functions identical to a netcat bind shell or reverse shell. This might lead security engineers to wonder about the softwares utility in the first place. Netexec encapsulates netcat's shell and reverse shell capabilities using approximately eight times less code. Netexec's code is also opperating system agnostic. This makes it easily extendible for the needs of any given security engineer.
+The netexec binary functions identical to a netcat bind shell or reverse shell. This might lead security engineers to wonder about the softwares utility in the first place. Netexec encapsulates netcat's shell and reverse shell capabilities using approximately eight times less code. Netexec's code is also operating system agnostic. This makes it easily extendible for the needs of any given security engineer.
 
 Take for example the [Impersonator Shell](https://github.com/AleksaZatezalo/Impersonator-Shell) which was built using netexec code. It abuses the SeImpersonate privilege to open an administrative reverse shells and bind shells.
 
